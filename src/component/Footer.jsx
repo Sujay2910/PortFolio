@@ -17,7 +17,7 @@ function Footer() {
             <FaYoutube size={24}/>
             </div>
             <div className='mt-8 border-t border-gray-700 pt-8 flex flex-col items-center'>
-                <p className='text-sm'>&copy; 2025 Your Company. All rights reserved.
+                <p className='text-sm'>&copy; 2025 ProtFolio. All rights reserved.
                 </p>
                 <p className='text-sm'>Supportive Partner ❤️ Sujay</p>
             </div>

@@ -31,7 +31,7 @@ function Home() {
           loop={true}
         />
         </div><br></br>
-        <p className='text-sm md:text-md text-justify'>Hi, I’m Sujay Bote, a passionate and enthusiastic developer who loves building creative and functional web applications. I enjoy learning new technologies and applying them to solve real-world problems.</p>
+        <p className='text-sm md:text-md text-justify'>Hi, I’m <strong>Sujay Bote</strong>, a passionate and enthusiastic developer who loves building creative and functional web applications. I enjoy learning new technologies and applying them to solve real-world problems.</p>
         
         <br></br>
         {/* social icons*/}

@@ -5,6 +5,9 @@ import mongoDB from "../../public/mongodb.jpg";
 import express from "../../public/express.png";
 import reactjs from "../../public/reactjs.png";
 import nodejs from "../../public/node.png";
+import project5 from "../../public/project5.png"
+import cpp from "../../public/Cpp.avif"
+import c from "../../public/c.png"
 
 function Portfolio() {
   const cardItem = [
@@ -43,6 +46,24 @@ function Portfolio() {
       logo: java,
       name: "Java",
       description: "A robust, object-oriented programming language commonly used in enterprise and Android apps."
+    },
+    {
+      id: 7,
+      logo: cpp,
+      name: "C++",
+      description: "C++ is used to create software, games, and applications. It supports object-oriented programming and is fast because it is a compiled language."
+    },
+    {
+      id: 8,
+      logo: c,
+      name: "C",
+      description: "C is a programming language used to write fast and efficient programs using functions and procedures."
+    },
+    {
+      id: 9,
+      logo: project5,
+      name: "Power BI",
+      description: "Power BI is a business analytics tool by Microsoft that allows users to visualize data, create interactive reports and dashboards, and gain insights to make data-driven decisions."
     },
   ];
 

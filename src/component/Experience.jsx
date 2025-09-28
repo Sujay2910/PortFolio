@@ -5,6 +5,7 @@ import project1 from "../../public/images.jpeg"; // icon/project image
 import project2 from "../../public/text-summarizer.png";
 import project3 from "../../public/download.png";
 import project4 from "../../public/algo.png";
+import project5 from "../../public/project5.png"
 
 function Experience() {
   const experiences = [
@@ -60,6 +61,14 @@ function Experience() {
         "Developed an algorithm visualizer that helps users understand algorithms step by step with animations, explanations, and smart recommendations.",
       logo: project4,
       tech: "React, JavaScript, CSS"
+    },
+    {
+      id: 5,
+      title: "HR Analytics Dashboard",
+      description:
+        "The HR Analytics Dashboard is an interactive Power BI solution designed to provide insights into the human resources activities and workforce performance of an organization.",
+      logo: project5,
+      tech: "Power BI Desktop, Excel / CSV, Visualizations"
     },
   ];
 
